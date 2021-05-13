@@ -65,16 +65,11 @@ section {
 }
 
 section img {
-    padding: 1px;
+  padding: 1px;
   border: 5px solid #CCC;
 }
 
-
-a img {
-
-}
-
-a img:hover {
+section img:hover {
   border: 5px solid #6F7F7A;
 }
 
