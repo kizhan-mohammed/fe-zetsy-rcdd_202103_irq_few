@@ -79,5 +79,7 @@ footer {
 }
 
 footer p {
-  
+  margin-bottom: 20px;
+  color: #555;
+  font-size: 0.8em;
 }
