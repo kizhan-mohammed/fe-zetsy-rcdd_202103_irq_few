@@ -31,18 +31,17 @@ header{
 }
 
 header h1 {
-	color: rgb(152,173,166);
-    text-decoration: none;
-}
-
-h1 {
-  color: #98ADA6;
-  font-size: 88px;
+    font-size: 88px;
   font-family: 'Baskerville', serif;
   padding: 0 0 10px;
   margin: 0 0 5px;
   font-weight: normal;
   border-bottom: 1px solid #ccc;
+
+}
+
+h1 {
+
 }
 
 #featured img {
