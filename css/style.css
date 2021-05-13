@@ -71,6 +71,7 @@ section img {
 
 section img:hover {
   border: 5px solid #6F7F7A;
+  padding: 1px;
 }
 
 .footer {
