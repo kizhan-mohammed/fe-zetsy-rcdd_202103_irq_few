@@ -74,7 +74,10 @@ section img:hover {
   padding: 1px;
 }
 
-.footer {
-  background: #fff;
+footer {
   text-align: right;
+}
+
+footer p {
+  
 }
