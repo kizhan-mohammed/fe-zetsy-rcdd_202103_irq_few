@@ -60,17 +60,18 @@ p  {
   text-decoration: none;
 }
 
-section{
+section {
   margin-bottom: 20px;
 }
 
-#press {
-    margin-bottom: 20px;
+section img {
+    padding: 1px;
+  border: 5px solid #CCC;
 }
 
+
 a img {
-  padding: 1px;
-  border: 5px solid #CCC;
+
 }
 
 a img:hover {
