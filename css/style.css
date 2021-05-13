@@ -31,18 +31,14 @@ header{
 }
 
 header h1 {
-    font-size: 88px;
+  font-size: 88px;
   font-family: 'Baskerville', serif;
-  padding: 0 0 10px;
+  padding: 0 0 5px;
   margin: 0 0 5px;
   font-weight: normal;
   border-bottom: 1px solid #ccc;
-
 }
 
-h1 {
-
-}
 
 #featured img {
 	border: 5px rgb(152,173,166) solid;
