@@ -31,12 +31,12 @@ header{
 }
 
 header h1 {
+  color: #ccc;
   font-size: 88px;
   font-family: 'Baskerville', serif;
   padding: 0 0 5px;
   margin: 0 0 5px;
   font-weight: normal;
-  border-bottom: 1px solid #ccc;
 }
 
 #featured img {
