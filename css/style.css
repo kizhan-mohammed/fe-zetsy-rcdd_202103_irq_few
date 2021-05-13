@@ -60,6 +60,10 @@ p  {
   text-decoration: none;
 }
 
+section{
+  margin-bottom: 20px;
+}
+
 #press {
     margin-bottom: 20px;
 }
